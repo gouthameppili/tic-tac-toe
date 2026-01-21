@@ -13,7 +13,7 @@ A simple, interactive Tic Tac Toe game built using Java.
 * **Replayability:** Allows players to restart a new game after completion.
 
 ## How to Play
-1. [cite_start]The game displays a 3x3 grid with indices (0, 1, 2)[cite: 7, 13].
+1. [cite_start]The game displays a 3x3 grid with indices (0, 1, 2).
 2. Players enter their desired row index and column index separately when prompted.
 3. [cite_start]Align three of your symbols (horizontally, vertically, or diagonally) to win.
 
